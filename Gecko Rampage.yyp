@@ -35,7 +35,7 @@
     {"id":{"name":"obj_cloud","path":"objects/obj_cloud/obj_cloud.yy",},},
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
     {"id":{"name":"obj_coinCount","path":"objects/obj_coinCount/obj_coinCount.yy",},},
-    {"id":{"name":"obj_create","path":"objects/obj_create/obj_create.yy",},},
+    {"id":{"name":"obj_create_coins","path":"objects/obj_create_coins/obj_create_coins.yy",},},
     {"id":{"name":"obj_gecko","path":"objects/obj_gecko/obj_gecko.yy",},},
     {"id":{"name":"obj_sky","path":"objects/obj_sky/obj_sky.yy",},},
     {"id":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},},
