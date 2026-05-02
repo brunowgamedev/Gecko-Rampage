@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gecko",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":39,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_building_2",
+  "eventList":[],
   "managed":true,
-  "name":"obj_gecko",
+  "name":"obj_building_2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_gecko",
-    "path":"sprites/spr_gecko/spr_gecko.yy",
+    "name":"spr_building",
+    "path":"sprites/spr_building/spr_building.yy",
   },
   "spriteMaskId":null,
   "visible":true,
