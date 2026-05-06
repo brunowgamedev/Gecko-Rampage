@@ -8,14 +8,14 @@
   "instanceCreationOrder":[
     {"name":"inst_30DA2C5F","path":"rooms/rm_gameplay/rm_gameplay.yy",},
     {"name":"inst_28846922","path":"rooms/rm_gameplay/rm_gameplay.yy",},
-    {"name":"inst_EDE4C1C","path":"rooms/rm_gameplay/rm_gameplay.yy",},
-    {"name":"inst_4698F09","path":"rooms/rm_gameplay/rm_gameplay.yy",},
     {"name":"inst_580A840F","path":"rooms/rm_gameplay/rm_gameplay.yy",},
     {"name":"inst_66AF32D8","path":"rooms/rm_gameplay/rm_gameplay.yy",},
     {"name":"inst_57AAF32E","path":"rooms/rm_gameplay/rm_gameplay.yy",},
     {"name":"inst_295C7FB3","path":"rooms/rm_gameplay/rm_gameplay.yy",},
     {"name":"inst_33C72BFE","path":"rooms/rm_gameplay/rm_gameplay.yy",},
     {"name":"inst_52D24955","path":"rooms/rm_gameplay/rm_gameplay.yy",},
+    {"name":"inst_4698F09","path":"rooms/rm_gameplay/rm_gameplay.yy",},
+    {"name":"inst_EDE4C1C","path":"rooms/rm_gameplay/rm_gameplay.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -28,10 +28,10 @@
         {"$GMRInstance":"v4","%Name":"inst_33C72BFE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_33C72BFE","objectId":{"name":"obj_create_objects","path":"objects/obj_create_objects/obj_create_objects.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":0.0,},
       ],"layers":[],"name":"Gecko","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Coins","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_52D24955","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_52D24955","objectId":{"name":"obj_window","path":"objects/obj_window/obj_window.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":375.0,"y":575.0,},
+        {"$GMRInstance":"v4","%Name":"inst_52D24955","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_52D24955","objectId":{"name":"obj_window","path":"objects/obj_window/obj_window.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":201.0,"y":729.0,},
       ],"layers":[],"name":"Coins","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Buildings","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_EDE4C1C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_EDE4C1C","objectId":{"name":"obj_building","path":"objects/obj_building/obj_building.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":11.5,"x":0.0,"y":-64.0,},
+        {"$GMRInstance":"v4","%Name":"inst_EDE4C1C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_EDE4C1C","objectId":{"name":"obj_building","path":"objects/obj_building/obj_building.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":11.5,"x":0.0,"y":-55.0,},
         {"$GMRInstance":"v4","%Name":"inst_4698F09","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4698F09","objectId":{"name":"obj_building_2","path":"objects/obj_building_2/obj_building_2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":11.5,"x":305.0,"y":0.0,},
       ],"layers":[],"name":"Buildings","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background_Buildings","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background_Buildings","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_buildings","path":"sprites/spr_buildings/spr_buildings.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.03,"vtiled":false,"x":0,"y":0,},

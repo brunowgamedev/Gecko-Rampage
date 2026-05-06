@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_building_2",
-  "eventList":[],
+  "%Name":"obj_explosion",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_building_2",
+  "name":"obj_explosion",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_building_2",
-    "path":"sprites/spr_building_2/spr_building_2.yy",
+    "name":"spr_explosion",
+    "path":"sprites/spr_explosion/spr_explosion.yy",
   },
   "spriteMaskId":null,
   "visible":true,

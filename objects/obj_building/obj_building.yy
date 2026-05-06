@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_building",
-    "path":"sprites/spr_building/spr_building.yy",
+    "name":"spr_building_2",
+    "path":"sprites/spr_building_2/spr_building_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
