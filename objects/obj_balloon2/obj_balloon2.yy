@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cloud",
+  "%Name":"obj_balloon2",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_cloud",
+  "name":"obj_balloon2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,9 +31,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cloud",
-    "path":"sprites/spr_cloud/spr_cloud.yy",
+    "name":"spr_balloon2",
+    "path":"sprites/spr_balloon2/spr_balloon2.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_balloon2",
+    "path":"sprites/spr_balloon2/spr_balloon2.yy",
+  },
   "visible":true,
 }

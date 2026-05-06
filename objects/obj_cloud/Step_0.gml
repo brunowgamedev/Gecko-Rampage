@@ -1,3 +1,2 @@
-x+= 0.1
-y+= 0.05
-image_alpha = 0.8;
+x += obj_movement
+//+= (obj_movement/2) * choose(1, -1);
