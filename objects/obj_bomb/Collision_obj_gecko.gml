@@ -5,6 +5,7 @@ image_alpha = 0;
 
 alarm[0] = 60;
 
+randomise();
 
 if(obj_gecko.x == 300){
 

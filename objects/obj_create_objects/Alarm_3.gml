@@ -1,6 +1,6 @@
 /// @description Balloons
 
-y_balloon = random_range(15, 350);
+y_balloon = random_range(15, 550);
 x_baloon = choose(-75, 320)
 
 num_random = choose(0, 1, 2)
@@ -14,5 +14,5 @@ if(num_random == 0) {
 }
 
 
-alarm[3] = 100;
-//alarm[3] = choose(1000, 1500, 3000)
+//alarm[3] = 100;
+alarm[3] = choose(300, 700)
