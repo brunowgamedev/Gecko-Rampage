@@ -17,3 +17,5 @@ if(obj_gecko.x == 300){
 	instance_create_layer(x,y,"Gecko",obj_explosion)
 	show_debug_message(obj_gecko.x)
 }
+
+obj_gecko.sprite_index = spr_death
