@@ -27,4 +27,4 @@ draw_set_halign(1);
 
 //Desenha o texto trasformado, dessa forma consigo aumentar o tamnho o texto, coloquei como 2.5
 draw_text_transformed(room_width/2, room_height - 600, string(global.total_coins)+ "\nv: "+ string(global.velocity) , 2.5, 2.5,0);
-global.velocity += .001
+
